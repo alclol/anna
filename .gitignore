@@ -80,3 +80,10 @@ tags
 *.exe
 *.out
 *.app
+
+# proto
+*_pb2.py
+protobuf-3.9.1/**
+protobuf-all-3.9.1.zip
+
+anna-config.yml
